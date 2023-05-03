@@ -58,6 +58,7 @@ Please feel free to submit issues, fork the repository, and send pull requests.
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
 Acknowledgements
 
     Pawandeep-prog/facial-emotion-detection-webapp for the inspiration and resources.
